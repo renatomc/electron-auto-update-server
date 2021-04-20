@@ -1,0 +1,4 @@
+appId: "com.example.appId"
+publish:
+  provider: "generic"
+  url: "<URL_SERVER>"
